@@ -16,7 +16,9 @@ import javax.swing.table.DefaultTableModel;
 public class GetChangeLog {
 	
 	public GetChangeLog(){
+		//hello
 		
+
 		Statement stmt = null;
 		try {
 			Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
